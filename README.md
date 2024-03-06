@@ -6,6 +6,9 @@
 
 * The brute force method back tracking is used. The possible solutions are explored in a recursive way until one is confirmed to solve the sudoku.
 
+* ![image](https://github.com/Tanwar-12/Sudoku-Solver/assets/110081008/f2e5c53f-85e8-4bab-b1f4-59c6424af9e2)
+
+
 ### File Format
 * To ensure the program can correctly read and solve the Sudoku puzzle, please adhere to the following format in the .txt file:
 
