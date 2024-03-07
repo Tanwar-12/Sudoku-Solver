@@ -5,8 +5,8 @@
 * A Python program designed to solve 9x9 Sudoku puzzles. Users can define the Sudoku puzzle to be solved in a .txt file, and if visualization is enabled, the solving process will be displayed in the terminal.
 
 * The brute force method back tracking is used. The possible solutions are explored in a recursive way until one is confirmed to solve the sudoku.
+![visualization_example (1)](https://github.com/Tanwar-12/Sudoku-Solver/assets/110081008/3db12bae-fd3f-4d4c-8e6c-4bdb5ecefcfd)
 
-* ![image](https://github.com/Tanwar-12/Sudoku-Solver/assets/110081008/f2e5c53f-85e8-4bab-b1f4-59c6424af9e2)
 
 
 ### File Format
